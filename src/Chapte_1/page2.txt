@@ -4,3 +4,5 @@ The vanishing Glass
 page 2 my book
 
 some work here
+
+I edit page 2 after I commit it.
